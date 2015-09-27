@@ -28,7 +28,7 @@ The following files are included:
 
 The Inertial Signals folders under test or train folders contain:
 
-'total_acc_x_train.txt'/'total_acc_y_train.txt'/'total_acc_z_train.txt': The acceleration measurement from the smartphone accelerometer X/Y/Z axis in standard gravity units 'g'.
+'total_acc_x_train.txt'/'total_acc_y_train.txt'/'total_acc_z_train.txt': The acceleration measurement from the smartphone accelerometer X/Y/Z axis.
 
 'body_acc_x_train.txt'/'body_acc_y_train.txt'/'body_acc_z_train.txt': The body acceleration measurement obtained by subtracting the gravity from the total acceleration.
 
